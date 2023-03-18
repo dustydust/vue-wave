@@ -1,0 +1,24 @@
+[{
+    "link": { "text": "Electron", "url": "electron.html" },
+    "particleTitle": "Negative Charge | (-)",
+    "description": "The electron (e− or β−) is a subatomic particle with a negative one elementary electric charge. Electrons belong to the first generation of the lepton particle family, and are generally thought to be elementary particles because they have no known components or substructure. The electron's mass is approximately 1/1836 that of the proton. Quantum mechanical properties of the electron include an intrinsic angular momentum (spin) of a half-integer value, expressed in units of the reduced Planck constant, ħ. Being fermions, no two electrons can occupy the same quantum state, per the Pauli exclusion principle. Like all elementary particles, electrons exhibit properties of both particles and waves: They can collide with other particles and can be diffracted like light. The wave properties of electrons are easier to observe with experiments than those of other particles like neutrons and protons because electrons have a lower mass and hence a longer de Broglie wavelength for a given energy.",
+    "quote": "The ancient Greeks noticed that amber attracted small objects when rubbed with fur. Along with lightning, this phenomenon is one of humanity's earliest recorded experiences with electricity.",
+    "resume": "In the Standard Model of particle physics, electrons belong to the group of subatomic particles called leptons, which are believed to be fundamental or elementary particles. Electrons have the lowest mass of any charged lepton (or electrically charged particle of any type) and belong to the first-generation of fundamental particles.",
+    "periods": {"alpha": 0.618, "betta": 1.618, "gamma": 2, "speed": 0.3}
+},
+{
+    "link": { "text": "Positron", "url": "positron.html" },
+    "particleTitle": "Known as Antielectron | (+)",
+    "description": "The positron or antielectron is the antiparticle or the antimatter counterpart of the electron. It has an electric charge of +1 e, a spin of 1/2 (the same as the electron), and the same mass as an electron. When a positron collides with an electron, annihilation occurs. If this collision occurs at low energies, it results in the production of two or more photons. Positrons can be created by positron emission radioactive decay (through weak interactions), or by pair production from a sufficiently energetic photon which is interacting with an atom in a material.",
+    "quote": "Satellite experiments have found evidence of positrons (as well as a few antiprotons) in primary cosmic rays, amounting to less than 1% of the particles in primary cosmic rays",
+    "resume": "Physicists at the Lawrence Livermore National Laboratory in California have used a short, ultra-intense laser to irradiate a millimeter-thick gold target and produce more than 100 billion positrons. Presently significant lab production of 5 MeV positron-electron beams allows investigation of multiple characteristics such as how different elements react to 5 MeV positron interactions or impacts, how energy is transferred to particles, and the shock effect of gamma-ray bursts (GRBs)",
+    "periods": {"alpha": 1, "betta": 0.618, "gamma": 1.618, "speed": 0.3}
+},
+{
+    "link": { "text": "Proton", "url": "proton.html" },
+    "particleTitle": "Third brother known as First | P",
+    "description": "Lorem Ipsum or kind of...",
+    "quote": "",
+    "resume": "",
+    "periods": {"alpha": 0.206, "betta": 1.006, "gamma": 1.003, "speed": 0.3}
+}]
